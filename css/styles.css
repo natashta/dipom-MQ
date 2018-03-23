@@ -195,7 +195,6 @@ ol {
     padding-left: 0;
     list-style-type: none; 
     list-style-position: inside;
-    /*counter-reset: item; */
     font-weight: 700;
     margin: 0;
 }
@@ -247,8 +246,7 @@ footer article {
 }
 
 p {
-  /* margin-bottom: auto;*/
-   margin-top: 1em;
+  margin-top: 1em;
 }
 footer p {
   color: #A297CC;
@@ -495,13 +493,11 @@ header h2 {
 
 h4 {
   font-size: 32px;
-  /*margin-top: auto;*/
-}
+ }
 p {
   font-size: 18px;
   font-weight: normal;
-  /*margin-bottom: auto;*/
-}
+ }
 
 footer h2, h3 {
   font-size: 76px;
@@ -511,6 +507,7 @@ footer h2, h3 {
 footer p {
   font-size: 36px;
  }
+  
 .todo, .todo .container {
   flex-direction: column;
   width: 100%;
@@ -641,8 +638,7 @@ h4 {
 p {
   font-size: 20px;
   font-weight: normal;
-  align-self: center;
-}
+ }
 
 footer h2, h3 {
   font-size: 76px;
@@ -688,7 +684,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_desktop.png?raw=true") no-repeat;
+  background: url("img/athlete_desktop.png?raw=true") no-repeat;
   width: 60%;
   height: 1000px;
   left: 0;
@@ -698,7 +694,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/player_desktop.png?raw=true") no-repeat right;
+  background: url("img/player_desktop.png?raw=true") no-repeat right;
   width: 100%;
   height: 780px;
   right: 0;
