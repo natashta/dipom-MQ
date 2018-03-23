@@ -275,20 +275,20 @@ footer p {
 
 @media (max-width: 320px) {
   header {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/header_320.jpg?raw=true");
+    background-image: url("../img/header_320.jpg?raw=true");
     
   }
   footer {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/footer_320.jpg?raw=true");
+    background-image: url("../img/footer_320.jpg?raw=true");
   }
   .beactive .picture {
-    background: url("https://raw.githubusercontent.com/natashta/dipom-MQ/master/img/beactive_320.jpg") no-repeat center;
+    background: url("../img/beactive_320.jpg") no-repeat center;
   }
   .contact .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/contact_320.jpg?raw=true") no-repeat center;
+    background: url("../img/contact_320.jpg?raw=true") no-repeat center;
   }
   .work .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/work_320.jpg?raw=true") no-repeat center;
+    background: url("../img/work_320.jpg?raw=true") no-repeat center;
   }
   .picture {
     min-height: 35rem;
@@ -298,37 +298,37 @@ footer p {
 
 @media (min-width: 321px) and (max-width: 768px) {
   header {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/header_768.jpg?raw=true");
+    background-image: url("../img/header_768.jpg?raw=true");
   }
   footer {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/footer_768.jpg?raw=true");
+    background-image: url("../img/footer_768.jpg?raw=true");
   }
   .beactive .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/beactive_768.jpg?raw=true") no-repeat center;
+    background: url("../img/beactive_768.jpg?raw=true") no-repeat center;
   }
   .contact .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/contact_768.jpg?raw=true") no-repeat center;
+    background: url("../img/contact_768.jpg?raw=true") no-repeat center;
   }
   .work .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/work_768.jpg?raw=true") no-repeat center;
+    background: url("../img/work_768.jpg?raw=true") no-repeat center;
   }
 }
 
 @media (min-width: 769px) {
   header {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/header_desktop.jpg?raw=true");
+    background-image: url("../img/header_desktop.jpg?raw=true");
   }
   footer {
-    background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/footer_desktop.jpg?raw=true");
+    background-image: url("../img/footer_desktop.jpg?raw=true");
   }
   .beactive .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/beactive_desktop.jpg?raw=true") no-repeat center;
+    background: url("../img/beactive_desktop.jpg?raw=true") no-repeat center;
   }
   .contact .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/contact_desktop.jpg?raw=true") no-repeat center;
+    background: url("../img/contact_desktop.jpg?raw=true") no-repeat center;
   }
   .work .picture {
-    background: url("https://github.com/natashta/dipom-MQ/blob/master/img/work_desktop.jpg?raw=true") no-repeat center;
+    background: url("../img/work_desktop.jpg?raw=true") no-repeat center;
   }
 }
 
@@ -409,7 +409,7 @@ header h2 {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_320.png?raw=true") no-repeat center;
+  background: url("../img/athlete_320.png?raw=true") no-repeat center;
   width: 80%;
   height: 450px;
   }
@@ -418,7 +418,7 @@ header h2 {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/player_320.png?raw=true") no-repeat center;
+  background: url("../img/player_320.png?raw=true") no-repeat center;
   width: 90%;
   height: 420px;
   }
@@ -535,7 +535,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/athlete_768.png?raw=true") no-repeat left;
+  background: url("../img/athlete_768.png?raw=true") no-repeat left;
   width: 100%;
   height: 780px;
   margin-top:2rem;
@@ -545,7 +545,7 @@ footer p {
   position: absolute;
   z-index: 1;
   content: "";
-  background: url("https://github.com/natashta/dipom-MQ/blob/master/img/players_768.png?raw=true") no-repeat right;
+  background: url("../img/players_768.png?raw=true") no-repeat right;
   width: 100%;
   height: 640px;
   margin-top: 0;
