@@ -273,7 +273,6 @@ footer p {
 @media (max-width: 320px) {
   header {
     background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/header_320.jpg?raw=true");
-    
   }
   footer {
     background-image: url("https://github.com/natashta/dipom-MQ/blob/master/img/footer_320.jpg?raw=true");
@@ -441,6 +440,7 @@ header h2 {
 article {
   padding: 0 2rem;
   min-height: 260px;
+}
 }
 
 @media (max-width: 390px) {
