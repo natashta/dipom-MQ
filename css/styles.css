@@ -137,7 +137,7 @@ h4 span:after {
 .logo_text {
   fill: white;
   color: white;
-  margin-bottom: 0.5rem;
+  margin: 1rem;
 }
 
 footer .logo_text {
@@ -382,6 +382,7 @@ footer p {
     flex-direction: column;
     width: 90%;
     align-items: center;
+    margin-top: 80px;
 }
 h3 {
   font-size: 50px;
@@ -487,12 +488,13 @@ li article {
    padding: 0.7em;
   }
  .footer_group {
-   display: flex;
+    display: flex;
     flex-direction: column;
     width: 100%;
     justify-content: center;
     align-items: center;
     align-content: center;
+    margin-top: 40px;
   }
 
 h1, h2 {
