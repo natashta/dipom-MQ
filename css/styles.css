@@ -221,10 +221,8 @@ header article, footer article {
 
 h1 {
   align-self: flex-start;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  
-}
+  padding: 1rem 0.5em;
+ }
 
 header h2 {
   align-self: flex-end;
