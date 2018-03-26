@@ -86,7 +86,7 @@ header, footer {
 
 .num_big span:after {
   position: absolute;
-  background-color: #5c42b0;
+  background-color: #917bce;
   content: "";
   width: 100%;
   height: 5px;
@@ -248,7 +248,7 @@ p {
   margin-top: 1em;
 }
 footer p {
-  color: #a198c5;
+  color: #917bce;
   margin-top: 0;
  }
 
