@@ -484,7 +484,7 @@ li article {
 } 
   .button span {
    font-size: 14px;
-   padding: 0.7em;
+   padding: 0.8em;
   }
  .footer_group {
     display: flex;
@@ -541,7 +541,7 @@ footer p {
 .buttons {
     flex-direction: row;
     justify-content: space-between;
-    width: 76%;
+    width: 80%;
   }
 .button {
     width: 48%;
@@ -593,7 +593,7 @@ footer p {
   height: 5em;
   font-size: 24px;
   margin-left: 1.5em;
-  margin-top: -3.3em;
+  margin-top: -3em;
 }
 .num_big span {
   margin-top: calc(5em/2 - 1em);
