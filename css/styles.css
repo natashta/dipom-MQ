@@ -55,7 +55,7 @@ header, footer {
 } 
 
 .button {
-  background: #603EB6;
+  background: #5c42b0;
   box-shadow: 0 25px 20px -5px #0A0C31;
   color: white;
   border-radius: 40px;
@@ -71,7 +71,7 @@ header, footer {
 }
 
 .num_big {
-  background: #603EB6;
+  background: #5c42b0;
   color: white;
   font-weight: 700;
   display: flex;
@@ -86,7 +86,7 @@ header, footer {
 
 .num_big span:after {
   position: absolute;
-  background-color: #A297CC;
+  background-color: #5c42b0;
   content: "";
   width: 100%;
   height: 5px;
@@ -125,8 +125,8 @@ h4 span:after {
 
 .logo {
   display: flex;
-  background: #603EB6;
-  background: linear-gradient(to bottom, #7650da, #50339e);
+  background: #5c42b0;
+  background: linear-gradient(to bottom, #7c58de, #493a8d);
   border-radius: 20px;
   margin-bottom: 20px;
 }
@@ -149,7 +149,7 @@ footer .logo_text {
 }
 
 .athlets .growth {
-  background: #603EB6;
+  background: #5c42b0;
   color: white;
 }
 
@@ -248,7 +248,7 @@ p {
   margin-top: 1em;
 }
 footer p {
-  color: #A297CC;
+  color: #5c42b0;
   margin-top: 0;
  }
 
