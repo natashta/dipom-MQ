@@ -656,10 +656,13 @@ footer p {
    font-size: 14px;
    padding: 1em;
 }
-h1, h2, h3 {
-  font-size: 80px;
+h1, h2 {
+  font-size: 90px;
 }
-header h2 {
+  h3 {
+  font-size: 76px;
+ } 
+ header h2 {
   max-width: 80%;
 }
 
@@ -691,7 +694,7 @@ footer p {
     width: 58%;
   }
   .button {
-    width: 46%;
+    width: 45%;
 }  
  .buttons svg {
   width: 40px;
@@ -762,13 +765,13 @@ footer p {
   
 .num_big {
   font-size: 24px;
-  width: 6em;
-  height: 6em;
-  margin-left: calc(-6*24px/2);
+  width: 5.5em;
+  height: 5.5em;
+  margin-left: calc(-5.5*24px/2);
   margin-top: 25rem;
 } 
 .num_big span {
-   margin-top: calc(6em/2 - 1em);
+   margin-top: calc(5.5em/2 - 1em);
 }
 
 .two {
