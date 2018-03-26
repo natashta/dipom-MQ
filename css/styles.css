@@ -196,7 +196,7 @@ ol {
     margin: 0;
 }
 li, .todo article {
-  min-height: 200px;
+  min-height: 180px;
 }
 
 .picture {
