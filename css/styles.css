@@ -590,6 +590,7 @@ footer p {
 .num_big span {
   margin-top: calc(5em/2 - 1em);
 }
+}
 
 @media (min-width: 641px) and (max-width: 790px) {
   footer p {
@@ -768,7 +769,6 @@ footer p {
 .beactive article, .work article, .contact .picture {
   margin-left: calc(-6*24px/2);
 }
-  
 }
 
 @media (min-width: 961px) and (max-width: 1130px) {
