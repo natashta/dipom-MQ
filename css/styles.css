@@ -452,7 +452,10 @@ li article {
 
 @media (max-width: 390px) {
    .footer_group article p {
-    font-size: 10px;
+    font-size: 12px;
+  }
+  .footer_group article h2 {
+    font-size: 26px;
   }
  }
 
